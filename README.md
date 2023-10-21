@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Noman
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://github.com/noman1712/noman1712/blob/main/hey%20there..%20Nine%20to%20see%20you%20(1).png)
+![I am GitHub Readme Generator's creator](https://github.com/noman1712/noman1712/blob/main/Red%20World%20Art%20Day%20(Banner%20(Landscape))-min.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
